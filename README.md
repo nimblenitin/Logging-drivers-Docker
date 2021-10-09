@@ -2,7 +2,7 @@
 
 Docker includes multiple logging mechanisms to help you get information from running containers and services. These mechanisms are called logging drivers.
 
-Steps to -
+Steps to 
     - Configure the default logging driver
     - Configure the logging driver for a container
     - Configure the delivery mode of log messages
